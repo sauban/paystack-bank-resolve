@@ -1,0 +1,7 @@
+{
+  "name": "Simple Node app",
+  "description": "A barebones Node.js app with celljs",
+  "repository": "https://github.com/sauban/paystack-bank-resolve",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "celljs", "static", "paystack"]
+}
