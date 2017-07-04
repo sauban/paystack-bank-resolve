@@ -1,0 +1,1 @@
+# paystack-bank-resolve
